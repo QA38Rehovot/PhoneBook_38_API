@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class GetAllContacts {
+public class GetAllContactsTests {
 
     Gson gson = new Gson();
     OkHttpClient client = new OkHttpClient();
